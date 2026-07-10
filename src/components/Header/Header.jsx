@@ -1,4 +1,4 @@
-import Navigation from '../Article/Navigation';
+import Navigation from '../Navigation/Navigation';
 import './Header.css';
 
 function Header() {
