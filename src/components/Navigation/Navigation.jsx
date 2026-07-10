@@ -2,7 +2,7 @@ import './Navigation.css';
 
 function Navigation() {
   return (
-    <nav className="article-navigation">
+    <div className="navigation">
       <a href="#about" className="navigation__link">
         About
       </a>
@@ -12,7 +12,7 @@ function Navigation() {
       <a href="#contact" className="navigation__link">
         Contact
       </a>
-    </nav>
+    </div>
   );
 }
 
